@@ -60,12 +60,9 @@ public class UsingGtable extends Frame {
 			e1.printStackTrace();
 		}
 		gt.addActionListener(new ActionListener(){
-
 			public void actionPerformed(ActionEvent e) {
 				System.out.println	("Action of Gtable");
-
 			}
-
 		});
 		sc.add(gt);
 
