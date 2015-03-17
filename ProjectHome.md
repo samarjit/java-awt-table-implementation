@@ -1,0 +1,1 @@
+One can create simple table in AWT which is not available by default. In swing JTable is there but in awt code needs to be written to render a table. This code also provides event generator and this event can be used to get data from selected row of table.
